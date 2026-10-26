@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0.0",
+  "title": "AI Kids Music Videos with Consistent Character",
+  "format": {
+    "aspect_ratio": "16:9",
+    "orientation": "landscape",
+    "invariant": true
+  },
+  "pipeline": ["CloneVoice", "Artistly", "VideoExpress"],
+  "defaults": {
+    "audience": "preschool and early-primary children unless specified",
+    "visual_style": "3D Pixar-inspired family animation, described with concrete visual traits",
+    "scene_interval_seconds_target": [5, 8],
+    "video_mode": "music_montage",
+    "lip_sync": false,
+    "public_gallery": false,
+    "retry_limit_per_failed_scene": 2
+  },
+  "approval": {
+    "required_before_generation": true,
+    "trigger": "GO",
+    "summary_includes": [
+      "song and style",
+      "character bible and reference source",
+      "16:9 and scene plan",
+      "song, image, and video generation counts",
+      "private project save and MP4 export"
+    ]
+  },
+  "identity_lock": {
+    "immutable_character_bible": true,
+    "canonical_reference_image": true,
+    "repeat_bible_in_every_scene_prompt": true
+  },
+  "phases": [
+    "intake_and_brief",
+    "approval",
+    "song_generation",
+    "character_reference",
+    "storyboard",
+    "prompt_book",
+    "scene_animation",
+    "timeline_assembly",
+    "sync_and_review",
+    "save_and_export",
+    "delivery_report"
+  ],
+  "completion_evidence": [
+    "completed song record and actual duration",
+    "approved 16:9 storyboard order and scene mapping",
+    "completed clip mapped to each selected scene",
+    "timeline contains one clip per scene and the correct song",
+    "project save status",
+    "export queue or completion state"
+  ],
+  "boundaries": [
+    "no_credentials_or_api_keys",
+    "no_purchase_or_upgrade_without_separate_authorization",
+    "no_public_posting_or_gallery_sharing",
+    "no_deletion_of_saved_media",
+    "stop_for_login_captcha_unexpected_charge_or_unsupported_ratio"
+  ]
+}
