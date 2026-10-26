@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "project_title": "Pip's Garden Counting Song",
+  "aspect_ratio": "16:9",
+  "song": {
+    "provider": "CloneVoice",
+    "title": "Counting in the Garden",
+    "asset_id": "record-after-generation",
+    "duration_seconds": null,
+    "status": "completed"
+  },
+  "character": {
+    "bible": "Pip is a small young red panda with a round russet face, cream muzzle and eye patches, bright brown eyes, soft striped tail, and short tufted ears. Pip always wears the same sunny-yellow raincoat, teal scarf, and green rubber boots, with a tiny blue backpack. Appealing proportions and polished 3D family-feature animation, soft tactile fur, expressive eyes.",
+    "reference_asset_id": "selected-reference-id"
+  },
+  "scenes": [
+    {
+      "scene_number": 1,
+      "storyboard_asset_id": "artistly-design-id-1",
+      "lyric_or_music_beat": "Opening refrain: count one bright flower",
+      "target_start_seconds": 0,
+      "target_duration_seconds": 6,
+      "aspect_ratio": "16:9",
+      "videoexpress_prompt": "[Copy the complete frozen character bible verbatim.] In a sunny garden, Pip gently points toward one golden flower while smiling with bright eyes. Medium-wide eye-level composition, flower clearly visible beside Pip, warm morning light, polished 3D family-feature animation. Start from this exact pose; Pip slowly leans closer to admire the flower as petals sway softly. Keep the same character, face, fur, clothing, and proportions. Landscape 16:9; steady camera, no cuts or identity changes.",
+      "videoexpress_job_id": "record-after-generation",
+      "status": "planned"
+    }
+  ],
+  "timeline": {
+    "video_scene_order": [1],
+    "music_track_asset_id": "clonevoice-audio-id",
+    "sync_difference_seconds": null,
+    "saved_project_name": null,
+    "export_status": "not_started"
+  }
+}
