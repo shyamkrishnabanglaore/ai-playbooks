@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0.0",
+  "run_id": null,
+  "status": "not_started",
+  "current_phase": "intake",
+  "last_verified_checkpoint": null,
+  "next_safe_action": "Resolve topic, two canonical references and live controls; prepare concrete credit-bounded plan.",
+  "authorization": {
+    "paid_production": false,
+    "credit_ceiling": null,
+    "repairs_remaining": null
+  },
+  "audio": {
+    "id": null,
+    "status": null,
+    "measured_duration_seconds": null
+  },
+  "storyboard": {
+    "route": null,
+    "accepted_design_ids": []
+  },
+  "scenes_completed": [],
+  "jobs": [],
+  "project": {
+    "id": null,
+    "saved": false
+  },
+  "export": {
+    "id": null,
+    "status": "not_submitted",
+    "completed_file": null
+  },
+  "error_history": []
+}

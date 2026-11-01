@@ -1,0 +1,39 @@
+{
+  "version": "1.0.0",
+  "target_seconds": 190,
+  "min_seconds": 180,
+  "max_seconds": 200,
+  "ratio": "16:9",
+  "language": "English",
+  "audience": "3\u20138",
+  "style": "original Pixar-like 3D feature animation",
+  "character_count": 2,
+  "both_characters_every_story_scene": true,
+  "reference_mapping": {
+    "1": "A",
+    "2": "B"
+  },
+  "nominal_clip_seconds": 5,
+  "nominal_scene_count": 38,
+  "concurrency_ceiling": 5,
+  "respect_visible_account_limit": true,
+  "image_enhancement": false,
+  "video_enhancement": false,
+  "video_only": true,
+  "lip_sync": false,
+  "advanced_mode": "only if required for live duration controls",
+  "storyboard_route": "Artistly planning; reference-controlled final frames in Artistly if supported, otherwise VideoExpress",
+  "visual_qa_required": true,
+  "max_total_takes_per_scene": 3,
+  "credit_ceiling": null,
+  "paid_production_authorized": false,
+  "audio_track_count": 1,
+  "endpoint_tolerance": "one output video frame; disclose if unmeasurable",
+  "export": {
+    "format": "mp4",
+    "quality": "High",
+    "resolution": "FullHD where supported",
+    "public": false
+  },
+  "completion": "verified completed export, not queue submission"
+}

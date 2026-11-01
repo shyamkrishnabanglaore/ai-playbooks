@@ -1,0 +1,45 @@
+{
+  "status": "template_requires_references",
+  "style": "original polished Pixar-like 3D animation",
+  "characters": {
+    "A": {
+      "name": null,
+      "reference_slot": 1,
+      "reference_asset_id": null,
+      "identity_tag": null,
+      "face": null,
+      "skin_tone": null,
+      "eyes": null,
+      "hair": null,
+      "outfit": null,
+      "shoes": null,
+      "accessories": null,
+      "relative_height": null,
+      "screen_side": "left"
+    },
+    "B": {
+      "name": null,
+      "reference_slot": 2,
+      "reference_asset_id": null,
+      "identity_tag": null,
+      "face": null,
+      "skin_tone": null,
+      "eyes": null,
+      "hair": null,
+      "outfit": null,
+      "shoes": null,
+      "accessories": null,
+      "relative_height": null,
+      "screen_side": "right"
+    }
+  },
+  "locations": {
+    "garden_01": {
+      "layout": "One oak tree at rear left, one low white fence at rear center, flower bed at right; open lawn in foreground.",
+      "camera_side": "front of lawn facing fence",
+      "lighting": "warm morning key from upper screen-left",
+      "palette": "fresh greens, pastel flowers, warm neutral ground"
+    }
+  },
+  "mouth_pose": "closed lips unchanged; expression through eyes, eyebrows, head, hands and body"
+}

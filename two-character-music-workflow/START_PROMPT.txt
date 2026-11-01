@@ -1,0 +1,16 @@
+Use SYSTEM_PROMPT.md and the accompanying kit to produce my music video.
+
+Song topic: [INSERT TOPIC, e.g. Jay and Mia learn the four seasons together]
+Character A: [ATTACH IMAGE 1; optional name]
+Character B: [ATTACH IMAGE 2; optional name]
+
+Target: 190 seconds. Final runtime must be 180–200 seconds including intro/outro.
+Ratio: Landscape 16:9. Language: simple Indian English. Audience: ages 3–8.
+Style: polished Pixar-like 3D feature animation with original character designs.
+Keep the same two faces, hair, proportions, outfits, colors and relative heights throughout. Both characters appear in every story scene. Use an externally sung original song; characters act and dance with closed mouths and lip-sync off.
+
+Use CloneVoice for the music, Artistly for useful music-led storyboarding, and VideoExpress for reference-controlled final scene images, animation and assembly. If Artistly cannot preserve both visual references, use its story beats and create the final scene images in VideoExpress with both references.
+
+First inspect available controls and present the concrete plan, estimated credit use and a bounded repair allowance for my approval. If credit costs cannot be read, ask me for a credit ceiling. Do not spend credits yet. Once authorized, complete routine production without repeated approval requests. Check every image and clip for character consistency. Checkpoint after verified actions, give brief progress updates, and reconcile existing jobs before retrying.
+
+Deliver the saved project and verified completed FullHD MP4 if supported. Report queued/rendering separately from completed. Do not purchase credits or publish publicly.
